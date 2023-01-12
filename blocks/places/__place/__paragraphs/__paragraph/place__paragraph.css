@@ -1,0 +1,35 @@
+.place__paragraph {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #FFFFFF;
+  max-width: 484px;
+  padding-bottom: 26px;
+  width: 100%;
+}
+
+.place__paragraph:nth-last-child(1) {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    max-width: 352px;
+    font-size: 16px;
+    padding-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .place__paragraph {
+    max-width: 288px;
+    padding-left: 16px;
+  }
+}
