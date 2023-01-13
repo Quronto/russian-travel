@@ -24,7 +24,6 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
-    max-width: 720px;
     gap: 16px;
     padding-bottom: 88px;
     max-width: calc(100% - 32px);
