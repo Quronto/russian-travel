@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 730px) {
   .list {
     padding-top: 34px;
   }
