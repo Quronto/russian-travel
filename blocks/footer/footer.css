@@ -1,6 +1,5 @@
 .footer {
   max-width: calc(100% - 96px);
-  height: 18px;
   margin: 0 auto;
   padding-bottom: 24px;
   display: flex;
@@ -17,7 +16,6 @@
   .footer {
     margin: 0;
     max-width: 186px;
-    min-height: 310px;
     padding-left: 16px;
     flex-direction: column;
   }

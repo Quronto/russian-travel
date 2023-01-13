@@ -1,6 +1,5 @@
 .cover {
   max-width: 1184px;
-  min-height: 740px;
   margin: 0 auto;
   padding: 92px 0;
 }
@@ -8,7 +7,6 @@
 @media screen and (max-width: 1024px) {
   .cover {
     max-width: 1024px;
-    min-height: 640px;
     margin: 0;
   }
 }
@@ -16,15 +14,12 @@
 @media screen and (max-width: 950px) {
   .cover {
     max-width: 100%;
-    min-height: 480px;
-    padding: 90px 0 88px;
+    padding: 90px 0;
   }
 }
 
 @media screen and (max-width: 400px) {
   .cover {
-    max-width: 100%;
-    min-height: 200px;
     padding: 66px 0 64px;
     margin: 0 auto;
   }

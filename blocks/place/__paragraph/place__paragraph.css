@@ -3,13 +3,13 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
-  color: #FFFFFF;
+  color: #FFF;
   max-width: 484px;
   padding-bottom: 26px;
   width: 100%;
 }
 
-.place__paragraph:nth-last-child(1) {
+.place__paragraph:last-child {
   padding-bottom: 0;
 }
 

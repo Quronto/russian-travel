@@ -1,0 +1,7 @@
+.header__lang-links {
+  margin-top: 18px;
+}
+
+.header__lang-links :first-child {
+  margin: 0;
+}

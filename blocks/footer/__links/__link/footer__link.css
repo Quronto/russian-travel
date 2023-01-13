@@ -16,3 +16,7 @@
     padding-right: 0;
   }
 }
+
+.footer__links :last-of-type {
+  padding-right: 0;
+}

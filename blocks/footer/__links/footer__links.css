@@ -2,10 +2,6 @@
   margin: 0;
 }
 
-.footer__links :last-child {
-  padding-right: 0;
-}
-
 @media screen and (max-width: 680px) {
   .footer__links {
     display: flex;

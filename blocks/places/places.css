@@ -3,10 +3,6 @@
   margin: 0 auto;
 }
 
-.places :last-child {
-  padding-bottom: 0;
-}
-
 @media screen and (max-width: 1024px) {
   .places {
     max-width: calc(100% - 96px);
