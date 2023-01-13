@@ -9,14 +9,14 @@
   padding-right: 18px;
 }
 
+.footer__links :last-child {
+  padding-right: 0;
+}
+
 @media screen and (max-width: 680px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;
     padding-right: 0;
   }
-}
-
-.footer__links :last-of-type {
-  padding-right: 0;
 }
