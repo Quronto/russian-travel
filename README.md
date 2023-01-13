@@ -24,3 +24,5 @@ max-width: calc(100% - 296px);
   gap: 16px;
 }
   ```
+
+Ссылка на сайт: https://quronto.github.io/russian-travel/index.html
