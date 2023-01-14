@@ -8,7 +8,6 @@
   font-size: 30px;
   line-height: 36px;
   max-width: 640px;
-  min-height: 72px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,6 +21,5 @@
     font-size: 16px;
     line-height: 20px;
     padding: 16px 0 40px;
-    min-height: 40px;
   }
 }

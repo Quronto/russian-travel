@@ -1,6 +1,10 @@
+body {
+  width: 100%;
+  background-color: #2A2C2F;
+}
+
 .page {
-  background: #2A2C2F;
-  max-width: 100%;
+  max-width: 1280px;
   min-height: 100vh;
   font-family: 'inter', 'Arial', sans-serif;
   -moz-osx-font-smoothing: grayscale;
@@ -9,4 +13,6 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  margin: 0 auto;
+  padding: 0;
 }
