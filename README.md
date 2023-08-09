@@ -26,3 +26,4 @@ max-width: calc(100% - 296px);
   ```
 
 Ссылка на сайт: https://quronto.github.io/russian-travel/index.html
+q
